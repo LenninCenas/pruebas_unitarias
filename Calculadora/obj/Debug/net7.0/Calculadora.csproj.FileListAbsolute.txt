@@ -1,0 +1,11 @@
+/Users/lennin/Documents/pruebas_unitarias/Calculadora/bin/Debug/net7.0/Calculadora.deps.json
+/Users/lennin/Documents/pruebas_unitarias/Calculadora/bin/Debug/net7.0/Calculadora.dll
+/Users/lennin/Documents/pruebas_unitarias/Calculadora/bin/Debug/net7.0/Calculadora.pdb
+/Users/lennin/Documents/pruebas_unitarias/Calculadora/obj/Debug/net7.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lennin/Documents/pruebas_unitarias/Calculadora/obj/Debug/net7.0/Calculadora.AssemblyInfoInputs.cache
+/Users/lennin/Documents/pruebas_unitarias/Calculadora/obj/Debug/net7.0/Calculadora.AssemblyInfo.cs
+/Users/lennin/Documents/pruebas_unitarias/Calculadora/obj/Debug/net7.0/Calculadora.csproj.CoreCompileInputs.cache
+/Users/lennin/Documents/pruebas_unitarias/Calculadora/obj/Debug/net7.0/Calculadora.dll
+/Users/lennin/Documents/pruebas_unitarias/Calculadora/obj/Debug/net7.0/refint/Calculadora.dll
+/Users/lennin/Documents/pruebas_unitarias/Calculadora/obj/Debug/net7.0/Calculadora.pdb
+/Users/lennin/Documents/pruebas_unitarias/Calculadora/obj/Debug/net7.0/ref/Calculadora.dll
