@@ -99,3 +99,9 @@
 /Users/lennin/Documents/pruebas_unitarias/Calculadora.Tests/obj/Debug/net7.0/Calculadora.Tests.genruntimeconfig.cache
 /Users/lennin/Documents/pruebas_unitarias/Calculadora.Tests/obj/Debug/net7.0/ref/Calculadora.Tests.dll
 /Users/lennin/Documents/pruebas_unitarias/Calculadora.Tests/obj/Debug/net7.0/Calculad.EAF94B3C.Up2Date
+/Users/lennin/Documents/pruebas_unitarias/Calculadora.Tests/obj/Debug/net7.0/Calculadora.Tests.sourcelink.json
+/Users/lennin/Documents/pruebas_unitarias/Calculadora.Tests/bin/Debug/net7.0/Castle.Core.dll
+/Users/lennin/Documents/pruebas_unitarias/Calculadora.Tests/bin/Debug/net7.0/Moq.dll
+/Users/lennin/Documents/pruebas_unitarias/Calculadora.Tests/bin/Debug/net7.0/System.Diagnostics.EventLog.dll
+/Users/lennin/Documents/pruebas_unitarias/Calculadora.Tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/Users/lennin/Documents/pruebas_unitarias/Calculadora.Tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll

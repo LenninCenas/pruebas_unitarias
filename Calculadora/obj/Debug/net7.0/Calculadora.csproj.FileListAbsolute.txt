@@ -9,3 +9,4 @@
 /Users/lennin/Documents/pruebas_unitarias/Calculadora/obj/Debug/net7.0/refint/Calculadora.dll
 /Users/lennin/Documents/pruebas_unitarias/Calculadora/obj/Debug/net7.0/Calculadora.pdb
 /Users/lennin/Documents/pruebas_unitarias/Calculadora/obj/Debug/net7.0/ref/Calculadora.dll
+/Users/lennin/Documents/pruebas_unitarias/Calculadora/obj/Debug/net7.0/Calculadora.sourcelink.json

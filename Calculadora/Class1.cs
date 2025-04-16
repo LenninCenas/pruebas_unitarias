@@ -1,7 +1,16 @@
 ﻿namespace Calculadora
 {
+    // Interfaz para la calculadora
+    public interface ICalculadora
+    {
+        int Sumar(int a, int b);
+        int Restar(int a, int b);
+        int Multiplicar(int a, int b);
+        int Dividir(int a, int b);
+    }
+
     // Clase básica de calculadora
-    public class Calculadora
+    public class Calculadora : ICalculadora
     {
         // Método para sumar dos números
         public int Sumar(int a, int b)
